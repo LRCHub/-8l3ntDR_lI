@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Girl (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-27T14:41:33.733482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Kentucky Girl (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/01_Blue_Kentucky_Girl_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Velocity Girl (Remastered)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/02_Velocity_Girl_(Remastered)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wide Eyed Girl (Remastered Version)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/03_Wide_Eyed_Girl_(Remastered_Version)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dissolved Girl - Remastered 2019",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/04_Dissolved_Girl_-_Remastered_2019_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dissolved Girl (Remastered 2019)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/05_Dissolved_Girl_(Remastered_2019)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "About A Girl (Remastered)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/06_About_A_Girl_(Remastered)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cosmic Girl - Remastered",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/07_Cosmic_Girl_-_Remastered_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cosmic Girl (Remastered)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/08_Cosmic_Girl_(Remastered)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Indian Girl (Remastered)",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/09_Indian_Girl_(Remastered)_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trash, Trampoline And The Party Girl - Remastered",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/10_Trash,_Trampoline_And_The_Party_Girl_-_Remastered_U2.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Island Girl (Remastered)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/11_Island_Girl_(Remastered)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Arrivederci Girl - Remastered",
+      "artist": "The Guess Who",
+      "has_synced": true,
+      "path": "select/12_Arrivederci_Girl_-_Remastered_The_Guess_Who.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girl - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Girl_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rich Girl (Remastered)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/14_Rich_Girl_(Remastered)_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boy/Girl - Remastered",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/15_Boy_Girl_-_Remastered_U2.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sunday Girl (Remastered)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/16_Sunday_Girl_(Remastered)_Blondie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIRL",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_GIRL_The_Beatles.txt"
+    }
+  ]
+}
